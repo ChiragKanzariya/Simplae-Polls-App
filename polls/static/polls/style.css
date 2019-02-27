@@ -1,0 +1,11 @@
+body{
+    background: white url("images/background.jpg") no-repeat;
+}
+li a{
+    color: rgb(223, 16, 165);
+    text-decoration: none;
+    text-shadow: 3px 3px 3px black;
+}
+.main{
+    margin: 30px 780px;
+}

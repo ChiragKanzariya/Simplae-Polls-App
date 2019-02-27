@@ -1,0 +1,26 @@
+body{
+    background: white url("images/background.jpg") no-repeat;
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color: rgb(223, 16, 165);
+    text-shadow: 3px 3px 3px black;
+    font-size: 50px;
+}
+label{
+    font-size: 30px;
+    color: rgb(31, 31, 204);
+}
+.submit{
+    background-color: aquamarine;
+    font-family: Verdana;
+    font-size: 20px;
+    border: 2px solid black;
+}
+.choice{
+    background-color: aquamarine;
+}
+.main{
+    margin: 30px 750px;
+}

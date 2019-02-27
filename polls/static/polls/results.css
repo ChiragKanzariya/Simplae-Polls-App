@@ -1,0 +1,22 @@
+body{
+    background: white url("images/background.jpg") no-repeat;
+}
+h1{
+    color: rgb(223, 16, 165);
+    text-shadow: 3px 3px 3px black;
+    font-size: 50px;
+}
+ul li{
+    font-size: 30px;
+    color: rgb(31, 31, 204);
+}
+.vote{
+    text-decoration: none;
+    font-size: 30px;
+    background-color: aquamarine;
+    font-family: Verdana;
+    border: 2px solid black;
+}
+.main{
+    margin: 30px 750px;
+}
